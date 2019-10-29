@@ -1,2 +1,2 @@
 # Blog-Examples
-Ejemplos de código publicados en http://www.webrene.es/blog
+Ejemplos de código publicados en https://blog.webrene.es/
